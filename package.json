@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "dependencies": {
+    "pnpm": "^8.11.0"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
